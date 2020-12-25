@@ -1,4 +1,4 @@
-# Many 8192
+# Many 131072
 
 Made just for fun. [Play it here!](http://true2048.github.io/)
 
